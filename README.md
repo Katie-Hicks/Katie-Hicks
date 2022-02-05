@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Katie-Hicks
+- 👋 Hi, I’m @Theo-Hicks
 - 👀 I’m interested in reading and coding
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on my robot in FTC
